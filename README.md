@@ -3,7 +3,7 @@
 Bienvenido a mi página de GitHub. Aquí encontrarás proyectos relacionados con **microrobótica**, **IoT**, **controladores embebidos**, y mucho más.
 
 [![Repositorios](https://img.shields.io/badge/📂-Mis%20Repositorios-blue?style=flat-square)](https://github.com/hamedkiany?tab=repositories)
-[![Último Commit](https://img.shields.io/github/last-commit/hamedkiany?style=flat-square)](#)
+[![Último Commit](https://img.shields.io/github/last-commit/hamedkiany/MicroRobotica?style=flat-square)](#)
 [![Contribuciones](https://img.shields.io/badge/🤝-Abierto%20a%20Colaboraciones-green?style=flat-square)](#)
 
 ---
@@ -46,7 +46,7 @@ Aquí puedes ver un resumen gráfico de mi actividad en todos mis repositorios:
 
 ## 📫 **Contáctame**
 
-- 💼 [LinkedIn]([https://linkedin.com/in/hamedkiany](https://www.linkedin.com/in/hamed-nejad-143800234/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/hamed-nejad-143800234/)
 - 📧 [Email](mailto:hamedkiany at gmail dot com)
 
 ¡Gracias por visitar mi perfil! 🌟
