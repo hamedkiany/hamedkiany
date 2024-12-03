@@ -12,7 +12,7 @@ Bienvenido a mi página de GitHub. Aquí encontrarás proyectos relacionados con
 
 | Nombre del Repositorio             | Descripción breve                                                                                       | Lenguaje  | Última Actualización |
 |------------------------------------|--------------------------------------------------------------------------------------------------------|-----------|-----------------------|
-| [**TivaPac**](https://github.com/hamedkiany/TivaPac)          | Control de audio en PC usando Tiva TM4C123 con FreeRTOS.                                               | C         | Hace minutos         |
+| [**TivaPac**](https://github.com/hamedkiany/TivaPc)          | Control de audio en PC usando Tiva TM4C123 con FreeRTOS.                                               | C         | Hace minutos         |
 | [**SkyRobot**](https://github.com/hamedkiany/SkyRobot)        | Prototipo de un robot en desarrollo.                                                                  | C++       | Hace 20 minutos      |
 | [**RemoteTemperature**](https://github.com/hamedkiany/RemoteTemperature) | Aplicación basada en Telegram para monitoreo remoto de temperatura.                                   | Python    | Hace 1 día           |
 | [**ESP-Tiva**](https://github.com/hamedkiany/ESP-Tiva)        | Comunicación entre Tiva y ESP8266 para integración con LabView.                                       | Python    | Hace 1 semana        |
