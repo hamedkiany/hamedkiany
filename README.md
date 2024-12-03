@@ -27,7 +27,7 @@ Bienvenido a mi página de GitHub. Aquí encontrarás proyectos relacionados con
 
 Aquí puedes ver un resumen gráfico de mi actividad en todos mis repositorios:
 
-![Actividad Reciente](https://hamedkiany.github.io/<nombre-repositorio>/activity-chart.png)
+![Actividad Reciente](https://img.shields.io/github/commit-activity/m/hamedkiany/hamedkiany)
 
 ---
 
