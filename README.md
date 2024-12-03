@@ -1,16 +1,16 @@
-## Hi there 👋
+# Actividades del Repositorio
 
-<!--
-**hamedkiany/hamedkiany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Este gráfico muestra un resumen de las actividades más recientes del repositorio:
 
-Here are some ideas to get you started:
+![Gráfico de Actividades](https://hamedkiany.github.io/hamedkiany/activity-chart.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+O puedes ver la versión interactiva del gráfico en [GitHub Pages](https://hamedkiany.github.io/hamedkiany/).
+
+## ¿Qué muestra este gráfico?
+- **Commits**: Número de cambios realizados en el código.
+- **Issues**: Problemas o tareas abiertas.
+- **Pull Requests**: Solicitudes para fusionar código.
+- **Stars**: Número de "estrellas" recibidas como favoritos del proyecto.
+
+## Cómo se creó
+El gráfico fue generado utilizando [Chart.js](https://www.chartjs.org/) y se actualiza automáticamente según los datos del repositorio.
