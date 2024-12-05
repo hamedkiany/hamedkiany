@@ -44,6 +44,13 @@ Aquí puedes ver un resumen gráfico de mi actividad en todos mis repositorios:
 
 ---
 
+<a href="https://github.com/hamedkiany">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hamedkiany&count_private=true&show_icons=true&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/zuramai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamedkiany&layout=compact&theme=chartreuse-dark&langs_count=8" />
+</a>
+
 ## 📫 **Contáctame**
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/hamed-nejad-143800234/)
