@@ -17,7 +17,7 @@ Bienvenido a mi página de GitHub. Aquí encontrarás proyectos relacionados con
 | [**RemoteTemperature**](https://github.com/hamedkiany/RemoteTemperature) | Aplicación basada en Telegram para monitoreo remoto de temperatura.                                   | Python    | Hace 1 día           |
 | [**ESP-Tiva**](https://github.com/hamedkiany/ESP-Tiva)        | Comunicación entre Tiva y ESP8266 para integración con LabView.                                       | Python    | Hace 1 semana        |
 | [**MicroRobotica**](https://github.com/hamedkiany/MicroRobotica) | Proyecto colaborativo enfocado en robótica.                                                          | Markdown  | Hace 2 meses         |
-| [**EBAZ4205_HDMI**](https://github.com/hamedkiany/EBAZ4205_HDMI) | Puerto HDMI sobre Xilinx Zynq 7000.                                                                  | VHDL      | Hace 2 meses         |
+| [**EBAZ4205 HDMI**](https://github.com/hamedkiany/IPHDMI) | Puerto HDMI sobre Xilinx Zynq 7000.                                                                  | VHDL      | Hace 2 meses         |
 
 👉 **Ver todos mis repositorios en [GitHub](https://github.com/hamedkiany?tab=repositories)**.
 
